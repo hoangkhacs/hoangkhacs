@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Kha
 
 ## 🚀 About Me
-- Backend Developer (Laravel / PHP)
-- Quan tâm: Clean Code, System Design
-- Mục tiêu: Viết code dễ hiểu – dễ mở rộng – dễ bảo trì
+- Fullstack Developer (Laravel / PHP / Vue3)
+- Interests: Clean Code, System Design
+- Goal: Writing code that is easy to understand, easy to extend, and easy to maintain
 
 ## 🛠 Tech Stack
 - Database: MySQL, MariaDB
